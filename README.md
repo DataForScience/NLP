@@ -1,5 +1,7 @@
 # Natural Language Processing From Scratch
 
+### Code and slides to accompany the online series of webinars: https://data4sci.com/nlp by Data For Science.
+
 The rise of online social platforms has resulted in an explosion of written text in the form of blogs, posts, tweets, wiki pages, and more. This new wealth of data provides a unique opportunity to explore natural language in its many forms, both as a way of automatically extracting information from written text and as a way of artificially producing text that looks natural.
 
 In this class we introduce viewers to natural language processing from scratch. Each concept is introduced and explained through coding examples using nothing more than just plain Python and numpy. In this way, attendees learn in depth about the underlying concepts and techniques instead of just learning how to use a specific NLP library.
