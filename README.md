@@ -37,3 +37,5 @@ The timeframes are only estimates and may vary according to how the class is pro
 - Understand Word2vec word embeddings
 - Define GloVe
 - Apply Language detection
+
+Slides: https://github.com/DataForScience/NLP/blob/master/slides/NLP.pdf
