@@ -38,4 +38,4 @@ The timeframes are only estimates and may vary according to how the class is pro
 - Define GloVe
 - Apply Language detection
 
-Slides: https://github.com/DataForScience/NLP/blob/master/slides/NLP.pdf
+Slides: http://data4sci.com/landing/nlp/
