@@ -1,6 +1,10 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/NLP/master)
+
 # Natural Language Processing From Scratch
 
 ### Code and slides to accompany the online series of webinars: https://data4sci.com/nlp by Data For Science.
+
+### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/NLP/master)
 
 The rise of online social platforms has resulted in an explosion of written text in the form of blogs, posts, tweets, wiki pages, and more. This new wealth of data provides a unique opportunity to explore natural language in its many forms, both as a way of automatically extracting information from written text and as a way of artificially producing text that looks natural.
 
