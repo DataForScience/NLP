@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/NLP/master)
 
-# Natural Language Processing From Scratch
+# Natural Language Processing For Everyone
 
 ### Code and slides to accompany the online series of webinars: https://data4sci.com/nlp by Data For Science.
 
