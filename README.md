@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/NLP)
 
 [![Graphs For Science](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://graphs4sci.substack.com/)
-[![Sunday Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4sci.ck.page/8a51c452bc)
+[![Sunday Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4science.ck.page/a63d4cc8d9)
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/NLP/master)
